@@ -1,0 +1,1 @@
+python make_swissadme_batches.py --input "merged_qedsa_docking.csv" --output_dir "swissadme_batches"

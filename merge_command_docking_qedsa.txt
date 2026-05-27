@@ -1,0 +1,1 @@
+python merge_docking_qedsa.py --docking "C:\path\to\docking_summary_test_pocket_exact_by_affinity.csv" --qedsa "C:\path\to\qed_sa_results_filtered.csv" --output "C:\path\to\merged_qedsa_docking.csv"

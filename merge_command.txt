@@ -1,0 +1,1 @@
+python merge_docking_qed_sa.py --docking_file "C:\path\to\docking_summary.csv" --qed_file "C:\path\to\qed_sa_results_filtered.csv" --output_file "C:\path\to\docking_summary_merged.csv"
